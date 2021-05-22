@@ -1,0 +1,7 @@
+FileOutputStream
+Utilizando o FileOutputStream é possível
+abrir um arquivo e gravar dados
+sem necessariamente sobrescrever o arquivo existente.
+
+Nesse exemplo além de fechar o objeto gravador com método close(),
+também é necessário fechar o arquivoOutput.
